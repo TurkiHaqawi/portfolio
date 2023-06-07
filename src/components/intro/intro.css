@@ -44,12 +44,12 @@
 
 @keyframes move {
   50% {
-    transform: translateY(-50px);
+    transform: translateY(-75px);
   }
 }
 
 .i-title-item {
-  height: 50px;
+  height: 40px;
   font-size: 30px;
   font-weight: bold;
   color: #8b71b5;

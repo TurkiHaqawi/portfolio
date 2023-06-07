@@ -2,14 +2,14 @@ export const projects = [
   {
     id: 1,
     img: "https://i.imgur.com/qDZxd2u_d.webp?maxwidth=1520&fidelity=grand",
-    link: "https://turkihaqawi.github.io/Project1-ShowHotels/",
+    // link: "https://turkihaqawi.github.io/Project1-ShowHotels/",
     code: "https://github.com/TurkiHaqawi/Project1-ShowHotels",
     text: "Show Hotels",
   },
   {
     id: 2,
     img: "https://i.ibb.co/Zffb8Yp/book-Store.png",
-    link: "https://b-store.netlify.app/",
+    // link: "https://b-store.netlify.app/",
     code: "https://github.com/TurkiHaqawi/BookStore",
     text: "Book Store",
   },
@@ -22,7 +22,7 @@ export const projects = [
   {
     id: 4,
     img: "https://i.ibb.co/Qm64znF/shopping.png",
-    link: "https://hype-ecommrece.herokuapp.com/",
+    // link: "https://hype-ecommrece.herokuapp.com/",
     code: "https://github.com/TurkiHaqawi/Hype-eCommrece",
     text: "Hype eCommerce ...",
   },
